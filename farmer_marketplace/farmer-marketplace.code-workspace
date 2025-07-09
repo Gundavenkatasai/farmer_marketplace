@@ -1,0 +1,22 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "php.validate.executablePath": "C:/xampp/php/php.exe",
+        "[php]": {
+            "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+        }
+    },
+    "extensions": {
+        "recommendations": [
+            "bmewburn.vscode-intelephense-client",
+            "esbenp.prettier-vscode",
+            "bradlc.vscode-tailwindcss"
+        ]
+    }
+}
